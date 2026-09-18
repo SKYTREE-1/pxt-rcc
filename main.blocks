@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="2kK{GR{!N;yvZIA)AYaN" x="20" y="20"><statement name="HANDLER"><block type="device_show_leds" id="ZI~{!3[OKSMU4Q%RG;xv"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        . . # . .
+        `</field></block></statement></block><block type="device_button_event" id="xlN5-k:-sebOMdkOH3DF" x="264" y="20"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="リモコン扇風機_電源を入れる" id="t-lvvy@qg-f3~SlSU8$e"></block></statement></block><block type="device_button_event" id="{y,aNq#Se)k:[PvA4YK]" x="547" y="20"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="リモコン扇風機_電源を消す" id="|BqA.KYAGh+u8-HI?q#w"></block></statement></block></xml>
